@@ -2,6 +2,8 @@
 
 A small javascript component to load instagram photos for a user, optionally filtered by tags.
 
+Plain vanilla js, no external javascript dependencies required.
+
 ## Usage
 Add the following script anywhere to your document. Make sure the `src` property of the generated script tag points to the `ig-gallery.js` script on your server. 
 

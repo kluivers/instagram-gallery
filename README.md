@@ -26,7 +26,7 @@ Configure the component using the options dictionary.
 			var s = document.createElement('script');
 			s.type = 'text/javascript';
 			s.async = true;
-			s.src = 'js/ig_gallery.js';
+			s.src = 'js/ig-gallery.js';
 			
 			s.onload = s.onreadystatechange = function() {
 				var rs = this.readyState; if (rs) {

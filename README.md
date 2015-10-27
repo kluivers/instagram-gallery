@@ -6,7 +6,7 @@ Since the Instagram API doesn't support Cross-Origin Resource Sharing (CORS) the
 
 This component uses multiple API requests until either the maximum posts count has been satisfied or no more posts are available.
 
-Written in vanilla js, no external javascript dependencies required.
+Written in [vanilla js](http://joris.kluivers.nl/blog/2012/08/27/vanilla-js/), no external javascript dependencies required.
 
 ## Usage
 Add the following script anywhere to your document. Make sure the `src` property of the generated script tag points to the `ig-gallery.js` script on your server. 
